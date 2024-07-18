@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @anjumk127
-- 👀 I’m interested in web design & data science
-- 🌱 I’m currently learning about CSS & HTML
-- 📫 How to reach me https://www.linkedin.com/in/anjumkhan127/)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I can write with both of my hands!
+# Anjum-Intro
 
-<!---
-anjumk127/anjumk127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Anjum, a rising senior in high school. I'm part of the KKCF Fellowship, where I'm exploring my interests in data science and public policy. Through this fellowship, I hope to learn how data can influence public policies and work on projects that address real-world issues. I'm passionate about technology and coding, and I enjoy seeing how these fields connect with social justice and community advocacy. I'm looking forward to growing and learning more in these areas.
+
+
